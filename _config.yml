@@ -1,4 +1,4 @@
-title: Hello, world! I'm David Freeman
+title: SCM & more by J. Fischer
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,17 +9,17 @@ url: "https://jemathfischer.github.io" # the base hostname & protocol for your s
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: Jens Walter Fischer # add your name
+author-img: ProfilFoto.jpg # add your photo
+about-author: I am a mathematician passionate about supply chains, networks and information systems. Dedicated to life long learning and cooking. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-github: jeMATHfischer # add your Github handle
+social-linkedin: jens-walter-fischer # add your Linkedin handle
+social-email: jefischer@posteo.de # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
